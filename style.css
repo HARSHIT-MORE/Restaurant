@@ -67,14 +67,14 @@ li > p {
 	opacity: 0.8;
 }
 #menu-item {
-	background-image: url(/assest/menu.jpg);
+	background-image: url(./assest/menu.jpg);
 	background-position: center;
 	width:100%
 	/* background-repeat: no-repeat; */
 }
 
 #Special-item {
-	background-image: url(/assest/Special.jpeg);
+	background-image: url(./assest/Special.jpeg);
 	background-position: center;
 	width:100%
 
