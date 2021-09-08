@@ -33,6 +33,7 @@
 #item6 > span,
 #item7 > span,
 #item8 > span {
+	/* background-color: rgb(180, 206, 11); */
 	background-color: black;
 	display: block;
 	text-align: center;

@@ -3,8 +3,12 @@
 	padding: 0;
 	overflow: none;
 }
+a{
+  text-decoration: none;
+}
+
 body {
-	background-color: rgb(175, 11, 230);
+	background-color: rgba(125, 0, 160, 0.66);
 }
 .navigation{
 	position: sticky;

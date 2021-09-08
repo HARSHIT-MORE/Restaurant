@@ -33,13 +33,14 @@
 #item6 > span,
 #item7 > span,
 #item8 > span {
-	background-color: black;
+	background-color:black;
 	display: block;
 	text-align: center;
 	opacity: 0.8;
 	color: white;
 	border-radius: 2.5px;
 }
+
 
 .menus {
 	/* background-color: pink; */
